@@ -1,6 +1,6 @@
 # conversorDeMonedasusandoAPI
 Creacion de un programa conversor de monedas utilizando la API ExchangeRate
-
+Los archivos del programa realizado en JAVA se encuentran el a rama Master 
      
 Descripción de su proyecto: Programa para convertir divisas de monedas utilizando una API para obtener los cambios                                 actualizados
 Funcionalidades: Este programa funciona para realizar la divisa entre dólares, pesos argentinos,pesos colombianos y                     reales brasileños
